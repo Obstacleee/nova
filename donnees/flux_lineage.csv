@@ -1,0 +1,8 @@
+flux_id,systeme_source,objet_source,systeme_cible,objet_cible,transformation_declaree,frequence,responsable,regles_appliquees
+L01,Site web,API commandes (JSON),Zone brute,commandes_brutes,Copie telle que reçue,temps réel,Équipe web,aucun
+L02,Caisses boutiques,ventes caisse,CRM,clients_crm,Création de fiche client à chaque vente,quotidien,IT magasins,aucun
+L03,PSP,paiements.log,Zone brute,paiements_bruts,Parsing des logs et dédoublonnage,horaire,IT Data,R05
+L04,Zone brute,commandes_brutes,Entrepôt,fait_ventes,"Jointure commandes × paiements, somme des montants",quotidien,IT Data,R01
+L05,ERP,factures.xml,Entrepôt,fait_factures,Chargement XML,quotidien,Comptabilité,R03
+L06,Plateforme IoT,capteurs_froid,Entrepôt,mesures_froid,Agrégation horaire (moyenne),horaire,Équipe IoT,R06
+L07,Entrepôt,fait_ventes,Tableau de bord,CA_octobre_tableau_A,Somme TTC,quotidien,Contrôle de gestion,aucun

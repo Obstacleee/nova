@@ -1,0 +1,6 @@
+indicateur,valeur,definition_actuelle,publie_dans
+CA_octobre_tableau_A,568367.00,Somme des montant_total_ttc des commandes d’octobre (lecture brute du JSON),Tableau de bord Direction commerciale
+CA_octobre_tableau_B,438457.68,"Somme des paiements acceptés d’octobre divisée par 1,2 (« HT »)",Tableau de bord Finance
+CA_octobre_jointure_commandes_paiements,685936.80,Somme des montants de commande après jointure avec tous les événements de paiement,Requête ad hoc
+clients_actifs_12_mois,11429,Nombre de client_id distincts ayant commandé sur 12 mois,Tableau de bord Marketing
+taux_conformite_chaine_du_froid_octobre_pct,99.53,Part des lignes du fichier capteurs entre 0 et 4,Tableau de bord Qualité

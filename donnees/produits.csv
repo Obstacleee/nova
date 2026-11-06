@@ -1,0 +1,366 @@
+produit_id,libelle,categorie,prix_ht_eur,taux_tva,stock,chaine_du_froid,photo_url
+PR0052,Miel de lavande grand format,EPICERIE,7.16,5.5,163,non,https://cdn.novacommerce.example/img/PR0052.jpg
+PR0125,Miel de lavande 75 cl,EPICERIE,15.88,5.5,37,non,https://cdn.novacommerce.example/img/PR0125.jpg
+PR0280,Torchon lin édition limitée,MAISON,15.17,20.0,226,non,https://cdn.novacommerce.example/img/PR0280.jpg
+PR0320,Panier osier x2,MAISON,61.05,20.0,141,non,https://cdn.novacommerce.example/img/PR0320.jpg
+PR0291,Vase en grès édition limitée,MAISON,13.09,20.0,112,non,https://cdn.novacommerce.example/img/PR0291.jpg
+PR0358,Bougie parfumée bio,Frais,106.67,20.0,234,non,https://cdn.novacommerce.example/img/PR0358.jpg
+PR0045,Pâtes artisanales x2,EPICERIE,26.20,5.5,387,non,https://cdn.novacommerce.example/img/PR0045.jpg
+PR0296,Panier osier grand format,MAISON,60.74,20.0,36,non,https://cdn.novacommerce.example/img/PR0296.jpg
+PR0261,Jus de pomme grand format,BOISSONS,29.54,20.0,231,non,https://cdn.novacommerce.example/img/PR0261.jpg
+PR0220,Vin rouge AOP 500 g,BOISSONS,11.18,20.0,266,non,https://cdn.novacommerce.example/img/PR0220.jpg
+PR0099,Café en grains 1 kg,EPICERIE,8.03,5.5,334,non,https://cdn.novacommerce.example/img/PR0099.jpg
+PR0131,Chocolat noir 70 % 1 kg,EPICERIE,20.25,5.5,65,non,https://cdn.novacommerce.example/img/PR0131.jpg
+PR0019,Confiture de figues 1 kg,EPICERIE,18.91,5.5,294,non,https://cdn.novacommerce.example/img/PR0019.jpg
+PR0129,Thé vert 500 g,EPICERIE,36.28,5.5,238,non,https://cdn.novacommerce.example/img/PR0129.jpg
+PR0077,Épices Ras el-hanout 75 cl,EPICERIE,4.26,5.5,45,non,https://cdn.novacommerce.example/img/PR0077.jpg
+PR0308,Panier osier 75 cl,MAISON,74.72,20.0,25,non,https://cdn.novacommerce.example/img/PR0308.jpg
+PR0024,Café en grains x2,EPICERIE,3.78,5.5,38,non,https://cdn.novacommerce.example/img/PR0024.jpg
+PR0085,Riz basmati bio,EPICERIE,23.28,5.5,248,non,https://cdn.novacommerce.example/img/PR0085.jpg
+PR0233,Vin rouge AOP 75 cl,BOISSONS,14.37,20.0,398,non,https://cdn.novacommerce.example/img/PR0233.jpg
+PR0198,Jambon de pays x2,FRAIS,30.38,5.5,0,oui,https://cdn.novacommerce.example/img/PR0198.jpg
+PR0315,Planche à découper 250 g,MAISON,38.90,20.0,387,non,https://cdn.novacommerce.example/img/PR0315.jpg
+PR0056,Miel de lavande 75 cl,EPICERIE,44.56,20.0,316,non,https://cdn.novacommerce.example/img/PR0056.jpg
+PR0293,Bougie parfumée édition limitée,MAISON,38.21,20.0,338,non,https://cdn.novacommerce.example/img/PR0293.jpg
+PR0252,Bière artisanale 1 kg,BOISSONS,29.69,19.6,62,non,
+PR0199,Beurre demi-sel 250 g,FRAIS,15.63,5.5,206,oui,
+PR0047,Riz basmati 1 kg,EPICERIE,40.60,5.5,81,non,
+PR0230,Cidre brut grand format,BOISSONS,22.57,20.0,126,non,https://cdn.novacommerce.example/img/PR0230.jpg
+PR0091,Confiture de figues bio,EPICERIE,24.85,5.5,64,non,https://cdn.novacommerce.example/img/PR0091.jpg
+PR0345,Planche à découper 500 g,MAISON,78.79,20.0,84,non,https://cdn.novacommerce.example/img/PR0345.jpg
+PR0185,Saumon fumé édition limitée,FRAIS,17.06,5.5,341,oui,https://cdn.novacommerce.example/img/PR0185.jpg
+PR0138,Café en grains 250 g,EPICERIE,6.83,5.5,152,non,https://cdn.novacommerce.example/img/PR0138.jpg
+PR0130,Chocolat noir 70 % grand format,EPICERIE,25.24,5.5,93,non,https://cdn.novacommerce.example/img/PR0130.jpg
+PR0182,Jambon de pays 250 g,FRAIS,4.12,5.5,147,oui,https://cdn.novacommerce.example/img/PR0182.jpg
+PR0193,Saumon fumé 250 g,FRAIS,26.47,5.5,114,oui,https://cdn.novacommerce.example/img/PR0193.jpg
+PR0256,Vin rouge AOP 500 g,BOISSONS,9.85,20.0,65,non,https://cdn.novacommerce.example/img/PR0256.jpg
+PR0178,Beurre demi-sel x2,FRAIS,26.78,5.5,267,oui,https://cdn.novacommerce.example/img/PR0178.jpg
+PR0317,Planche à découper édition limitée,MAISON,42.41,20.0,130,non,https://cdn.novacommerce.example/img/PR0317.jpg
+PR0042,Riz basmati 75 cl,EPICERIE,27.49,5.5,104,non,https://cdn.novacommerce.example/img/PR0042.jpg
+PR0082,Confiture de figues 1 kg,EPICERIE,31.78,5.5,214,non,https://cdn.novacommerce.example/img/PR0082.jpg
+PR0318,Vase en grès 250 g,MAISON,16.89,20.0,117,non,https://cdn.novacommerce.example/img/PR0318.jpg
+PR0114,Huile d’olive 500 g,EPICERIE,35.81,5.5,375,non,https://cdn.novacommerce.example/img/PR0114.jpg
+PR0071,Épices Ras el-hanout grand format,EPICERIE,26.28,5.5,238,non,https://cdn.novacommerce.example/img/PR0071.jpg
+PR0051,Café en grains 75 cl,EPICERIE,38.68,5.5,384,non,https://cdn.novacommerce.example/img/PR0051.jpg
+PR0246,Champagne brut 500 g,BOISSONS,25.27,20.0,170,non,https://cdn.novacommerce.example/img/PR0246.jpg
+PR0118,Chocolat noir 70 % grand format,EPICERIE,36.57,5.5,253,non,https://cdn.novacommerce.example/img/PR0118.jpg
+PR0337,Panier osier bio,MAISON,14.96,20.0,6,non,https://cdn.novacommerce.example/img/PR0337.jpg
+PR0228,Jus de pomme 1 kg,BOISSONS,15.20,20.0,121,non,https://cdn.novacommerce.example/img/PR0228.jpg
+PR0121,Épices Ras el-hanout 500 g,EPICERIE,5.57,5.5,237,non,https://cdn.novacommerce.example/img/PR0121.jpg
+PR0035,Pâtes artisanales 500 g,EPICERIE,9.32,5.5,132,non,https://cdn.novacommerce.example/img/PR0035.jpg
+PR0207,Beurre demi-sel bio,FRAIS,32.69,5.5,304,oui,https://cdn.novacommerce.example/img/PR0207.jpg
+PR0286,Plaid en laine 500 g,MAISON,99.80,20.0,304,non,https://cdn.novacommerce.example/img/PR0286.jpg
+PR0278,Plaid en laine grand format,MAISON,9.07,20.0,20,non,https://cdn.novacommerce.example/img/PR0278.jpg
+PR0349,Panier osier grand format,MAISON,93.16,20.0,87,non,https://cdn.novacommerce.example/img/PR0349.jpg
+PR0307,Planche à découper grand format,MAISON,34.28,20.0,99,non,
+PR0354,Planche à découper 1 kg,MAISON,101.41,20.0,103,non,https://cdn.novacommerce.example/img/PR0354.jpg
+PR0008,Épices Ras el-hanout 75 cl,EPICERIE,22.52,5.5,315,non,https://cdn.novacommerce.example/img/PR0008.jpg
+PR0049,Épices Ras el-hanout x2,EPICERIE,22.13,5.5,76,non,https://cdn.novacommerce.example/img/PR0049.jpg
+PR0290,Bougie parfumée grand format,MAISON,62.24,20.0,45,non,https://cdn.novacommerce.example/img/PR0290.jpg
+PR0281,Panier osier 250 g,MAISON,53.93,20.0,30,non,https://cdn.novacommerce.example/img/PR0281.jpg
+PR0044,Épices Ras el-hanout x2,EPICERIE,17.40,5.5,393,non,https://cdn.novacommerce.example/img/PR0044.jpg
+PR0303,Plaid en laine 75 cl,MAISON,51.15,20.0,325,non,
+PR0004,Riz basmati 500 g,EPICERIE,10.24,5.5,181,non,https://cdn.novacommerce.example/img/PR0004.jpg
+PR0210,Fromage de brebis bio,FRAIS,13.27,5.5,368,oui,https://cdn.novacommerce.example/img/PR0210.jpg
+PR0216,Jus de pomme édition limitée,BOISSONS,28.96,20.0,21,non,https://cdn.novacommerce.example/img/PR0216.jpg
+PR0275,Planche à découper 500 g,MAISON,81.43,20.0,150,non,https://cdn.novacommerce.example/img/PR0275.jpg
+PR0060,Confiture de figues 1 kg,EPICERIE,4.72,5.5,188,non,https://cdn.novacommerce.example/img/PR0060.jpg
+PR0055,Thé vert 1 kg,epicerie,38.20,5.5,267,non,https://cdn.novacommerce.example/img/PR0055.jpg
+PR0142,Fromage de brebis édition limitée,FRAIS,32.61,5.5,39,oui,
+PR0204,Jambon de pays 1 kg,FRAIS,33.84,5.5,118,oui,https://cdn.novacommerce.example/img/PR0204.jpg
+PR0253,Vin rouge AOP 1 kg,BOISSONS,9.18,20.0,247,non,https://cdn.novacommerce.example/img/PR0253.jpg
+PR0194,Beurre demi-sel 1 kg,FRAIS,41.98,5.5,337,oui,https://cdn.novacommerce.example/img/PR0194.jpg
+PR0187,Foie gras 1 kg,FRAIS,41.56,5.5,55,oui,
+PR0020,Huile d’olive 75 cl,EPICERIE,34.84,5.5,164,non,https://cdn.novacommerce.example/img/PR0020.jpg
+PR0235,Bière artisanale 1 kg,Frais,33.07,20.0,310,non,https://cdn.novacommerce.example/img/PR0235.jpg
+PR0013,Thé vert 75 cl,EPICERIE,39.84,5.5,123,non,https://cdn.novacommerce.example/img/PR0013.jpg
+PR0327,Torchon lin 1 kg,MAISON,56.51,20.0,-18,non,https://cdn.novacommerce.example/img/PR0327.jpg
+PR0064,Thé vert x2,EPICERIE,3.99,5.5,64,non,https://cdn.novacommerce.example/img/PR0064.jpg
+PR0081,Chocolat noir 70 % 500 g,EPICERIE,39.56,5.5,384,non,https://cdn.novacommerce.example/img/PR0081.jpg
+PR0173,Foie gras x2,FRAIS,30.09,5.5,26,oui,https://cdn.novacommerce.example/img/PR0173.jpg
+PR0283,Panier osier 250 g,MAISON,58.72,20.0,90,non,https://cdn.novacommerce.example/img/PR0283.jpg
+PR0066,Confiture de figues grand format,EPICERIE,37.34,5.5,363,non,
+PR0181,Fromage de brebis 75 cl,FRAIS,12.94,5.5,392,oui,https://cdn.novacommerce.example/img/PR0181.jpg
+PR0244,Bière artisanale 500 g,BOISSONS,34.70,20.0,93,non,https://cdn.novacommerce.example/img/PR0244.jpg
+PR0025,Thé vert bio,EPICERIE,39.23,5.5,225,non,https://cdn.novacommerce.example/img/PR0025.jpg
+PR0340,Bougie parfumée édition limitée,MAISON,39.05,20.0,217,non,https://cdn.novacommerce.example/img/PR0340.jpg
+PR0219,Champagne brut bio,BOISSONS,6.50,20.0,260,non,https://cdn.novacommerce.example/img/PR0219.jpg
+PR0104,Épices Ras el-hanout x2,EPICERIE,44.77,5.5,63,non,https://cdn.novacommerce.example/img/PR0104.jpg
+PR0209,Beurre demi-sel 500 g,FRAIS,9.22,5.5,127,oui,https://cdn.novacommerce.example/img/PR0209.jpg
+PR0014,Pâtes artisanales édition limitée,EPICERIE,35.91,5.5,76,non,https://cdn.novacommerce.example/img/PR0014.jpg
+PR0069,Épices Ras el-hanout 1 kg,EPICERIE,26.71,5.5,186,non,
+PR0057,Thé vert 1 kg,EPICERIE,29.52,5.5,356,non,
+PR0186,Foie gras grand format,FRAIS,22.38,5.5,221,oui,https://cdn.novacommerce.example/img/PR0186.jpg
+PR0311,Plaid en laine grand format,MAISON,85.68,20.0,231,non,https://cdn.novacommerce.example/img/PR0311.jpg
+PR0151,Foie gras 1 kg,FRAIS,42.75,5.5,3,oui,https://cdn.novacommerce.example/img/PR0151.jpg
+PR0103,Pâtes artisanales 250 g,EPICERIE,39.04,5.5,210,non,https://cdn.novacommerce.example/img/PR0103.jpg
+PR0038,Miel de lavande bio,EPICERIE,39.11,5.5,146,non,https://cdn.novacommerce.example/img/PR0038.jpg
+PR0258,Jus de pomme bio,BOISSONS,16.13,20.0,214,non,https://cdn.novacommerce.example/img/PR0258.jpg
+PR0227,Jus de pomme 75 cl,BOISSONS,37.95,20.0,230,non,https://cdn.novacommerce.example/img/PR0227.jpg
+PR0341,Torchon lin édition limitée,MAISON,101.71,20.0,236,non,https://cdn.novacommerce.example/img/PR0341.jpg
+PR0214,Champagne brut 1 kg,BOISSONS,35.97,20.0,151,non,https://cdn.novacommerce.example/img/PR0214.jpg
+PR0011,Café en grains x2,EPICERIE,37.89,5.5,127,non,https://cdn.novacommerce.example/img/PR0011.jpg
+PR0146,Fromage de brebis 500 g,FRAIS,20.22,5.5,374,oui,https://cdn.novacommerce.example/img/PR0146.jpg
+PR0016,Thé vert 500 g,EPICERIE,5.77,5.5,104,non,https://cdn.novacommerce.example/img/PR0016.jpg
+PR0010,Biscuits sablés 250 g,EPICERIE,19.81,5.5,227,non,https://cdn.novacommerce.example/img/PR0010.jpg
+PR0260,Vin rouge AOP édition limitée,BOISSONS,13.32,20.0,222,non,https://cdn.novacommerce.example/img/PR0260.jpg
+PR0184,Beurre demi-sel édition limitée,FRAIS,29.38,5.5,292,oui,https://cdn.novacommerce.example/img/PR0184.jpg
+PR0021,Miel de lavande 75 cl,EPICERIE,20.92,5.5,216,non,https://cdn.novacommerce.example/img/PR0021.jpg
+PR0310,Bougie parfumée édition limitée,MAISON,0.00,20.0,305,non,https://cdn.novacommerce.example/img/PR0310.jpg
+PR0053,Riz basmati 500 g,EPICERIE,10.97,5.5,149,non,https://cdn.novacommerce.example/img/PR0053.jpg
+PR0267,Champagne brut x2,BOISSONS,13.00,20.0,147,non,https://cdn.novacommerce.example/img/PR0267.jpg
+PR0334,Panier osier grand format,MAISON,82.96,20.0,324,non,https://cdn.novacommerce.example/img/PR0334.jpg
+PR0110,Épices Ras el-hanout 75 cl,EPICERIE,16.09,5.5,47,non,https://cdn.novacommerce.example/img/PR0110.jpg
+PR0205,Jambon de pays x2,FRAIS,35.34,5.5,155,oui,https://cdn.novacommerce.example/img/PR0205.jpg
+PR0356,Vase en grès édition limitée,MAISON,49.80,20.0,118,non,
+PR0249,Bière artisanale 500 g,BOISSONS,24.55,20.0,399,non,https://cdn.novacommerce.example/img/PR0249.jpg
+PR0162,Jambon de pays grand format,FRAIS,27.42,5.5,129,oui,https://cdn.novacommerce.example/img/PR0162.jpg
+PR0058,Épices Ras el-hanout 1 kg,EPICERIE,30.01,5.5,343,non,https://cdn.novacommerce.example/img/PR0058.jpg
+PR0294,Bougie parfumée x2,MAISON,71.12,20.0,43,non,https://cdn.novacommerce.example/img/PR0294.jpg
+PR0003,Chocolat noir 70 % grand format,EPICERIE,9.05,5.5,341,non,https://cdn.novacommerce.example/img/PR0003.jpg
+PR0319,Planche à découper grand format,MAISON,74.88,20.0,34,non,https://cdn.novacommerce.example/img/PR0319.jpg
+PR0247,Vin rouge AOP grand format,BOISSONS,13.02,20.0,151,non,https://cdn.novacommerce.example/img/PR0247.jpg
+PR0282,Planche à découper grand format,MAISON,89.91,20.0,14,non,
+PR0326,Vase en grès 75 cl,MAISON,83.69,20.0,380,non,https://cdn.novacommerce.example/img/PR0326.jpg
+PR0268,Bière artisanale 75 cl,BOISSONS,12.39,20.0,42,non,https://cdn.novacommerce.example/img/PR0268.jpg
+PR0132,Biscuits sablés 250 g,EPICERIE,31.14,5.5,284,non,
+PR0012,Miel de lavande bio,EPICERIE,21.94,5.5,153,non,https://cdn.novacommerce.example/img/PR0012.jpg
+PR0095,Épices Ras el-hanout bio,EPICERIE,30.51,5.5,215,non,https://cdn.novacommerce.example/img/PR0095.jpg
+PR0346,Torchon lin 75 cl,MAISON,64.31,20.0,234,non,https://cdn.novacommerce.example/img/PR0346.jpg
+PR0111,Thé vert x2,EPICERIE,12.30,20.0,107,non,https://cdn.novacommerce.example/img/PR0111.jpg
+PR0109,Café en grains 1 kg,EPICERIE,41.19,20.0,293,non,https://cdn.novacommerce.example/img/PR0109.jpg
+PR0276,Vase en grès 1 kg,MAISON,31.90,20.0,153,non,https://cdn.novacommerce.example/img/PR0276.jpg
+PR0202,Beurre demi-sel 250 g,FRAIS,14.09,5.5,109,oui,https://cdn.novacommerce.example/img/PR0202.jpg
+PR0040,Huile d’olive 1 kg,EPICERIE,13.10,5.5,236,non,https://cdn.novacommerce.example/img/PR0040.jpg
+PR0070,Huile d’olive édition limitée,EPICERIE,5.89,5.5,138,non,https://cdn.novacommerce.example/img/PR0070.jpg
+PR0192,Jambon de pays 75 cl,FRAIS,35.93,5.5,284,oui,https://cdn.novacommerce.example/img/PR0192.jpg
+PR0248,Cidre brut édition limitée,BOISSONS,44.54,20.0,379,non,https://cdn.novacommerce.example/img/PR0248.jpg
+PR0312,Bougie parfumée 250 g,MAISON,92.94,20.0,378,non,https://cdn.novacommerce.example/img/PR0312.jpg
+PR0160,Yaourt fermier grand format,FRAIS,14.89,5.5,384,oui,https://cdn.novacommerce.example/img/PR0160.jpg
+PR0239,Jus de pomme bio,BOISSONS,17.46,20.0,301,non,https://cdn.novacommerce.example/img/PR0239.jpg
+PR0285,Plaid en laine 500 g,MAISON,54.26,20.0,357,non,
+PR0183,Fromage de brebis bio,FRAIS,8.97,5.5,352,oui,https://cdn.novacommerce.example/img/PR0183.jpg
+PR0269,Jus de pomme 500 g,BOISSONS,21.77,20.0,139,non,https://cdn.novacommerce.example/img/PR0269.jpg
+PR0262,Bière artisanale 1 kg,BOISSONS,19.74,20.0,36,non,https://cdn.novacommerce.example/img/PR0262.jpg
+PR0094,Huile d’olive 250 g,EPICERIE,10.76,5.5,-23,non,https://cdn.novacommerce.example/img/PR0094.jpg
+PR0174,Saumon fumé 500 g,FRAIS,10.90,5.5,142,oui,https://cdn.novacommerce.example/img/PR0174.jpg
+PR0127,Thé vert x2,EPICERIE,24.33,5.5,12,non,https://cdn.novacommerce.example/img/PR0127.jpg
+PR0143,Jambon de pays grand format,FRAIS,37.16,5.5,7,oui,https://cdn.novacommerce.example/img/PR0143.jpg
+PR0237,Cidre brut 500 g,BOISSONS,6.14,20.0,258,non,https://cdn.novacommerce.example/img/PR0237.jpg
+PR0222,Champagne brut grand format,BOISSONS,30.41,20.0,343,non,https://cdn.novacommerce.example/img/PR0222.jpg
+PR0263,Cidre brut 500 g,BOISSONS,23.18,20.0,339,non,https://cdn.novacommerce.example/img/PR0263.jpg
+PR0036,Huile d’olive bio,EPICERIE,37.52,5.5,69,non,
+PR0299,Planche à découper grand format,MAISON,119.73,20.0,371,non,
+PR0148,Saumon fumé 75 cl,FRAIS,32.32,5.5,327,oui,
+PR0005,Riz basmati 1 kg,EPICERIE,18.63,5.5,82,non,https://cdn.novacommerce.example/img/PR0005.jpg
+PR0056,Miel de lavande 75 cl,EPICERIE,44.56,5.5,316,non,https://cdn.novacommerce.example/img/PR0056.jpg
+PR0062,Thé vert grand format,EPICERIE,42.69,5.5,107,non,https://cdn.novacommerce.example/img/PR0062.jpg
+PR0328,Vase en grès bio,MAISON,107.84,20.0,197,non,https://cdn.novacommerce.example/img/PR0328.jpg
+PR0344,Torchon lin x2,MAISON,56.13,20.0,311,non,https://cdn.novacommerce.example/img/PR0344.jpg
+PR0342,Vase en grès 500 g,MAISON,100.30,20.0,287,non,https://cdn.novacommerce.example/img/PR0342.jpg
+PR0086,Miel de lavande 75 cl,EPICERIE,41.44,5.5,105,non,https://cdn.novacommerce.example/img/PR0086.jpg
+PR0288,Vase en grès 75 cl,MAISON,95.38,20.0,2,non,https://cdn.novacommerce.example/img/PR0288.jpg
+PR0353,Plaid en laine 75 cl,epicerie,97.16,20.0,142,non,https://cdn.novacommerce.example/img/PR0353.jpg
+PR0124,Épices Ras el-hanout 75 cl,EPICERIE,34.16,5.5,57,non,https://cdn.novacommerce.example/img/PR0124.jpg
+PR0200,Beurre demi-sel 500 g,FRAIS,26.20,5.5,290,oui,https://cdn.novacommerce.example/img/PR0200.jpg
+PR0050,Miel de lavande édition limitée,EPICERIE,23.39,5.5,76,non,https://cdn.novacommerce.example/img/PR0050.jpg
+PR0343,Plaid en laine bio,MAISON,84.00,19.6,334,non,https://cdn.novacommerce.example/img/PR0343.jpg
+PR0023,Riz basmati 500 g,EPICERIE,36.17,5.5,59,non,https://cdn.novacommerce.example/img/PR0023.jpg
+PR0034,Huile d’olive 1 kg,EPICERIE,44.92,5.5,185,non,https://cdn.novacommerce.example/img/PR0034.jpg
+PR0150,Fromage de brebis 1 kg,FRAIS,25.96,5.5,276,oui,https://cdn.novacommerce.example/img/PR0150.jpg
+PR0102,Café en grains 250 g,EPICERIE,37.75,5.5,122,non,https://cdn.novacommerce.example/img/PR0102.jpg
+PR0079,Pâtes artisanales bio,EPICERIE,35.17,5.5,34,non,https://cdn.novacommerce.example/img/PR0079.jpg
+PR0144,Fromage de brebis 75 cl,epicerie,40.29,5.5,4,oui,https://cdn.novacommerce.example/img/PR0144.jpg
+PR0333,Torchon lin bio,MAISON,27.63,20.0,172,non,https://cdn.novacommerce.example/img/PR0333.jpg
+PR0339,Panier osier 250 g,MAISON,85.90,20.0,385,non,https://cdn.novacommerce.example/img/PR0339.jpg
+PR0022,Chocolat noir 70 % grand format,EPICERIE,13.05,5.5,207,non,https://cdn.novacommerce.example/img/PR0022.jpg
+PR0218,Bière artisanale grand format,BOISSONS,30.49,20.0,75,non,https://cdn.novacommerce.example/img/PR0218.jpg
+PR0105,Café en grains grand format,EPICERIE,38.28,5.5,285,non,
+PR0221,Bière artisanale bio,BOISSONS,18.27,20.0,68,non,https://cdn.novacommerce.example/img/PR0221.jpg
+PR0301,Vase en grès 250 g,MAISON,40.01,20.0,28,non,https://cdn.novacommerce.example/img/PR0301.jpg
+PR0059,Confiture de figues 250 g,EPICERIE,3.55,5.5,227,non,
+PR0287,Bougie parfumée grand format,MAISON,13.29,20.0,151,non,https://cdn.novacommerce.example/img/PR0287.jpg
+PR0350,Bougie parfumée grand format,Frais,58.15,20.0,81,non,https://cdn.novacommerce.example/img/PR0350.jpg
+PR0213,Bière artisanale 250 g,BOISSONS,23.33,20.0,390,non,https://cdn.novacommerce.example/img/PR0213.jpg
+PR0329,Panier osier grand format,MAISON,45.80,20.0,15,non,https://cdn.novacommerce.example/img/PR0329.jpg
+PR0232,Jus de pomme bio,BOISSONS,25.81,20.0,377,non,https://cdn.novacommerce.example/img/PR0232.jpg
+PR0015,Épices Ras el-hanout édition limitée,EPICERIE,30.09,5.5,254,non,https://cdn.novacommerce.example/img/PR0015.jpg
+PR0255,Vin rouge AOP 1 kg,BOISSONS,28.59,20.0,277,non,https://cdn.novacommerce.example/img/PR0255.jpg
+PR0352,Torchon lin 1 kg,MAISON,72.94,20.0,347,non,https://cdn.novacommerce.example/img/PR0352.jpg
+PR0212,Bière artisanale grand format,BOISSONS,31.62,20.0,-16,non,https://cdn.novacommerce.example/img/PR0212.jpg
+PR0108,Épices Ras el-hanout 250 g,EPICERIE,6.87,5.5,297,non,https://cdn.novacommerce.example/img/PR0108.jpg
+PR0223,Vin rouge AOP 1 kg,BOISSONS,21.01,20.0,361,non,https://cdn.novacommerce.example/img/PR0223.jpg
+PR0332,Torchon lin 75 cl,MAISON,71.09,20.0,212,non,https://cdn.novacommerce.example/img/PR0332.jpg
+PR0196,Yaourt fermier x2,FRAIS,12.59,5.5,99,oui,https://cdn.novacommerce.example/img/PR0196.jpg
+PR0316,Torchon lin grand format,MAISON,53.25,20.0,-5,non,https://cdn.novacommerce.example/img/PR0316.jpg
+PR0309,Vase en grès bio,MAISON,48.62,20.0,221,non,https://cdn.novacommerce.example/img/PR0309.jpg
+PR0009,Biscuits sablés édition limitée,EPICERIE,0.00,5.5,11,non,https://cdn.novacommerce.example/img/PR0009.jpg
+PR0145,Saumon fumé x2,FRAIS,25.57,5.5,109,oui,https://cdn.novacommerce.example/img/PR0145.jpg
+PR0107,Chocolat noir 70 % 250 g,EPICERIE,31.88,5.5,270,non,https://cdn.novacommerce.example/img/PR0107.jpg
+PR0264,Vin rouge AOP 250 g,BOISSONS,5.79,20.0,393,non,https://cdn.novacommerce.example/img/PR0264.jpg
+PR0083,Confiture de figues 75 cl,EPICERIE,5.77,5.5,378,non,https://cdn.novacommerce.example/img/PR0083.jpg
+PR0133,Café en grains grand format,EPICERIE,15.36,5.5,53,non,https://cdn.novacommerce.example/img/PR0133.jpg
+PR0224,Cidre brut grand format,BOISSONS,32.00,20.0,119,non,https://cdn.novacommerce.example/img/PR0224.jpg
+PR0166,Foie gras bio,FRAIS,16.51,5.5,326,oui,https://cdn.novacommerce.example/img/PR0166.jpg
+PR0098,Miel de lavande 75 cl,EPICERIE,28.43,5.5,36,non,https://cdn.novacommerce.example/img/PR0098.jpg
+PR0048,Miel de lavande 75 cl,EPICERIE,37.77,5.5,175,non,https://cdn.novacommerce.example/img/PR0048.jpg
+PR0037,Huile d’olive x2,EPICERIE,43.83,5.5,218,non,https://cdn.novacommerce.example/img/PR0037.jpg
+PR0351,Panier osier 500 g,MAISON,74.56,20.0,0,non,https://cdn.novacommerce.example/img/PR0351.jpg
+PR0274,Panier osier bio,MAISON,23.34,20.0,126,non,https://cdn.novacommerce.example/img/PR0274.jpg
+PR0122,Thé vert 75 cl,EPICERIE,39.02,5.5,134,non,https://cdn.novacommerce.example/img/PR0122.jpg
+PR0179,Jambon de pays 250 g,FRAIS,5.67,5.5,192,oui,https://cdn.novacommerce.example/img/PR0179.jpg
+PR0028,Riz basmati 1 kg,EPICERIE,35.28,5.5,126,non,https://cdn.novacommerce.example/img/PR0028.jpg
+PR0206,Jambon de pays 500 g,FRAIS,10.10,5.5,84,oui,https://cdn.novacommerce.example/img/PR0206.jpg
+PR0135,Miel de lavande grand format,Boissons,30.97,5.5,268,non,https://cdn.novacommerce.example/img/PR0135.jpg
+PR0331,Panier osier grand format,MAISON,34.54,20.0,204,non,
+PR0112,Épices Ras el-hanout bio,EPICERIE,12.72,5.5,176,non,https://cdn.novacommerce.example/img/PR0112.jpg
+PR0067,Confiture de figues 250 g,EPICERIE,37.05,5.5,-1,non,https://cdn.novacommerce.example/img/PR0067.jpg
+PR0029,Confiture de figues grand format,EPICERIE,17.26,5.5,236,non,https://cdn.novacommerce.example/img/PR0029.jpg
+PR0211,Bière artisanale 75 cl,BOISSONS,43.06,20.0,-19,non,https://cdn.novacommerce.example/img/PR0211.jpg
+PR0096,Confiture de figues x2,EPICERIE,38.44,5.5,152,non,https://cdn.novacommerce.example/img/PR0096.jpg
+PR0101,Épices Ras el-hanout grand format,EPICERIE,32.87,5.5,249,non,https://cdn.novacommerce.example/img/PR0101.jpg
+PR0141,Foie gras édition limitée,FRAIS,20.79,5.5,20,oui,https://cdn.novacommerce.example/img/PR0141.jpg
+PR0026,Thé vert bio,EPICERIE,21.14,5.5,119,non,https://cdn.novacommerce.example/img/PR0026.jpg
+PR0113,Café en grains x2,EPICERIE,32.44,5.5,77,non,https://cdn.novacommerce.example/img/PR0113.jpg
+PR0270,Cidre brut x2,BOISSONS,31.48,20.0,304,non,https://cdn.novacommerce.example/img/PR0270.jpg
+PR0168,Fromage de brebis 250 g,FRAIS,13.82,5.5,135,oui,https://cdn.novacommerce.example/img/PR0168.jpg
+PR0231,Bière artisanale 75 cl,BOISSONS,10.56,20.0,384,non,https://cdn.novacommerce.example/img/PR0231.jpg
+PR0347,Panier osier bio,MAISON,60.80,20.0,369,non,https://cdn.novacommerce.example/img/PR0347.jpg
+PR0120,Riz basmati 1 kg,EPICERIE,20.07,5.5,204,non,https://cdn.novacommerce.example/img/PR0120.jpg
+PR0305,Plaid en laine bio,MAISON,103.36,20.0,189,non,https://cdn.novacommerce.example/img/PR0305.jpg
+PR0063,Café en grains 250 g,EPICERIE,18.34,5.5,133,non,https://cdn.novacommerce.example/img/PR0063.jpg
+PR0100,Pâtes artisanales 75 cl,EPICERIE,30.06,5.5,73,non,https://cdn.novacommerce.example/img/PR0100.jpg
+PR0302,Plaid en laine 250 g,MAISON,82.53,20.0,353,non,https://cdn.novacommerce.example/img/PR0302.jpg
+PR0330,Torchon lin x2,MAISON,119.00,20.0,273,non,https://cdn.novacommerce.example/img/PR0330.jpg
+PR0041,Huile d’olive grand format,epicerie,3.11,5.5,96,non,
+PR0128,Épices Ras el-hanout bio,EPICERIE,35.40,5.5,107,non,
+PR0161,Fromage de brebis x2,FRAIS,23.46,5.5,181,oui,https://cdn.novacommerce.example/img/PR0161.jpg
+PR0203,Saumon fumé 500 g,FRAIS,22.48,5.5,218,oui,https://cdn.novacommerce.example/img/PR0203.jpg
+PR0177,Fromage de brebis x2,FRAIS,7.66,5.5,171,oui,https://cdn.novacommerce.example/img/PR0177.jpg
+PR0030,Thé vert édition limitée,EPICERIE,9.08,5.5,95,non,https://cdn.novacommerce.example/img/PR0030.jpg
+PR0006,Huile d’olive édition limitée,EPICERIE,3.95,5.5,353,non,https://cdn.novacommerce.example/img/PR0006.jpg
+PR0001,Miel de lavande grand format,EPICERIE,30.27,5.5,-12,non,https://cdn.novacommerce.example/img/PR0001.jpg
+PR0072,Riz basmati 250 g,EPICERIE,31.17,5.5,371,non,https://cdn.novacommerce.example/img/PR0072.jpg
+PR0324,Planche à découper bio,MAISON,44.55,20.0,262,non,
+PR0273,Plaid en laine 1 kg,MAISON,77.60,20.0,118,non,https://cdn.novacommerce.example/img/PR0273.jpg
+PR0157,Jambon de pays édition limitée,FRAIS,28.66,5.5,26,oui,https://cdn.novacommerce.example/img/PR0157.jpg
+PR0106,Chocolat noir 70 % 500 g,EPICERIE,16.96,5.5,137,non,https://cdn.novacommerce.example/img/PR0106.jpg
+PR0007,Café en grains bio,EPICERIE,21.26,5.5,86,non,https://cdn.novacommerce.example/img/PR0007.jpg
+PR0054,Huile d’olive 75 cl,EPICERIE,8.68,5.5,126,non,https://cdn.novacommerce.example/img/PR0054.jpg
+PR0176,Fromage de brebis édition limitée,FRAIS,24.85,5.5,64,oui,https://cdn.novacommerce.example/img/PR0176.jpg
+PR0018,Chocolat noir 70 % 1 kg,EPICERIE,44.70,5.5,356,non,https://cdn.novacommerce.example/img/PR0018.jpg
+PR0360,Bougie parfumée édition limitée,MAISON,13.86,20.0,370,non,https://cdn.novacommerce.example/img/PR0360.jpg
+PR0153,Yaourt fermier x2,FRAIS,13.88,5.5,102,oui,https://cdn.novacommerce.example/img/PR0153.jpg
+PR0208,Yaourt fermier bio,FRAIS,29.05,5.5,389,oui,https://cdn.novacommerce.example/img/PR0208.jpg
+PR0298,Planche à découper 1 kg,MAISON,19.34,20.0,177,non,https://cdn.novacommerce.example/img/PR0298.jpg
+PR0093,Pâtes artisanales grand format,EPICERIE,13.19,5.5,89,non,https://cdn.novacommerce.example/img/PR0093.jpg
+PR0355,Panier osier x2,MAISON,79.04,20.0,374,non,https://cdn.novacommerce.example/img/PR0355.jpg
+PR0245,Bière artisanale 1 kg,BOISSONS,21.49,20.0,260,non,https://cdn.novacommerce.example/img/PR0245.jpg
+PR0189,Jambon de pays 500 g,FRAIS,6.51,5.5,302,oui,https://cdn.novacommerce.example/img/PR0189.jpg
+PR0254,Bière artisanale édition limitée,BOISSONS,24.04,20.0,292,non,https://cdn.novacommerce.example/img/PR0254.jpg
+PR0076,Miel de lavande 75 cl,EPICERIE,38.00,5.5,213,non,https://cdn.novacommerce.example/img/PR0076.jpg
+PR0172,Yaourt fermier x2,FRAIS,26.29,5.5,10,oui,
+PR0266,Bière artisanale grand format,BOISSONS,0.00,20.0,370,non,https://cdn.novacommerce.example/img/PR0266.jpg
+PR0180,Yaourt fermier grand format,FRAIS,29.28,5.5,44,oui,https://cdn.novacommerce.example/img/PR0180.jpg
+PR0017,Biscuits sablés édition limitée,EPICERIE,26.34,5.5,399,non,https://cdn.novacommerce.example/img/PR0017.jpg
+PR0295,Plaid en laine bio,MAISON,100.59,20.0,113,non,https://cdn.novacommerce.example/img/PR0295.jpg
+PR0140,Confiture de figues 250 g,EPICERIE,19.69,5.5,223,non,https://cdn.novacommerce.example/img/PR0140.jpg
+PR0234,Cidre brut 500 g,BOISSONS,25.22,20.0,34,non,https://cdn.novacommerce.example/img/PR0234.jpg
+PR0272,Torchon lin x2,MAISON,90.41,20.0,141,non,https://cdn.novacommerce.example/img/PR0272.jpg
+PR0087,Pâtes artisanales x2,EPICERIE,15.23,5.5,220,non,https://cdn.novacommerce.example/img/PR0087.jpg
+PR0250,Champagne brut 75 cl,BOISSONS,17.28,20.0,50,non,https://cdn.novacommerce.example/img/PR0250.jpg
+PR0323,Planche à découper 75 cl,MAISON,87.19,20.0,264,non,https://cdn.novacommerce.example/img/PR0323.jpg
+PR0242,Champagne brut 250 g,MAISON ,19.29,20.0,369,non,https://cdn.novacommerce.example/img/PR0242.jpg
+PR0271,Torchon lin x2,MAISON,18.39,19.6,244,non,https://cdn.novacommerce.example/img/PR0271.jpg
+PR0279,Vase en grès x2,MAISON,74.60,20.0,155,non,
+PR0265,Champagne brut bio,BOISSONS,38.79,20.0,341,non,https://cdn.novacommerce.example/img/PR0265.jpg
+PR0300,Torchon lin x2,MAISON,52.75,20.0,160,non,https://cdn.novacommerce.example/img/PR0300.jpg
+PR0251,Champagne brut bio,BOISSONS,32.16,20.0,180,non,https://cdn.novacommerce.example/img/PR0251.jpg
+PR0134,Thé vert 250 g,EPICERIE,6.54,5.5,124,non,https://cdn.novacommerce.example/img/PR0134.jpg
+PR0097,Thé vert grand format,EPICERIE,44.60,5.5,339,non,https://cdn.novacommerce.example/img/PR0097.jpg
+PR0169,Fromage de brebis 1 kg,FRAIS,38.02,5.5,335,oui,https://cdn.novacommerce.example/img/PR0169.jpg
+PR0031,Épices Ras el-hanout grand format,EPICERIE,40.39,5.5,72,non,https://cdn.novacommerce.example/img/PR0031.jpg
+PR0159,Foie gras grand format,FRAIS,11.73,5.5,364,oui,https://cdn.novacommerce.example/img/PR0159.jpg
+PR0336,Panier osier 1 kg,Boissons,45.11,20.0,234,non,https://cdn.novacommerce.example/img/PR0336.jpg
+PR0321,Plaid en laine 75 cl,MAISON,17.63,20.0,348,non,https://cdn.novacommerce.example/img/PR0321.jpg
+PR0073,Huile d’olive édition limitée,EPICERIE,40.91,5.5,174,non,https://cdn.novacommerce.example/img/PR0073.jpg
+PR0032,Pâtes artisanales 500 g,EPICERIE,3.23,5.5,33,non,https://cdn.novacommerce.example/img/PR0032.jpg
+PR0314,Torchon lin 500 g,MAISON,88.32,20.0,169,non,https://cdn.novacommerce.example/img/PR0314.jpg
+PR0257,Jus de pomme 250 g,BOISSONS,16.36,20.0,185,non,https://cdn.novacommerce.example/img/PR0257.jpg
+PR0078,Pâtes artisanales 500 g,EPICERIE,32.63,5.5,249,non,https://cdn.novacommerce.example/img/PR0078.jpg
+PR0357,Planche à découper édition limitée,MAISON,71.70,20.0,375,non,https://cdn.novacommerce.example/img/PR0357.jpg
+PR0075,Riz basmati 500 g,EPICERIE,17.48,5.5,83,non,https://cdn.novacommerce.example/img/PR0075.jpg
+PR0163,Beurre demi-sel bio,FRAIS,5.60,5.5,58,oui,https://cdn.novacommerce.example/img/PR0163.jpg
+PR0002,Confiture de figues 500 g,EPICERIE,41.99,5.5,48,non,https://cdn.novacommerce.example/img/PR0002.jpg
+PR0111,Thé vert x2,EPICERIE,12.30,5.5,107,non,https://cdn.novacommerce.example/img/PR0111.jpg
+PR0080,Thé vert 75 cl,EPICERIE,35.71,5.5,63,non,
+PR0156,Foie gras 250 g,FRAIS,6.63,5.5,318,oui,https://cdn.novacommerce.example/img/PR0156.jpg
+PR0137,Confiture de figues édition limitée,EPICERIE,41.27,5.5,153,non,https://cdn.novacommerce.example/img/PR0137.jpg
+PR0191,Foie gras 1 kg,FRAIS,19.81,5.5,166,oui,https://cdn.novacommerce.example/img/PR0191.jpg
+PR0065,Miel de lavande 75 cl,EPICERIE,13.67,5.5,327,non,https://cdn.novacommerce.example/img/PR0065.jpg
+PR0147,Beurre demi-sel x2,FRAIS,3.38,5.5,255,oui,https://cdn.novacommerce.example/img/PR0147.jpg
+PR0243,Bière artisanale édition limitée,BOISSONS,20.80,20.0,233,non,https://cdn.novacommerce.example/img/PR0243.jpg
+PR0306,Vase en grès bio,MAISON,63.12,20.0,306,non,https://cdn.novacommerce.example/img/PR0306.jpg
+PR0284,Plaid en laine édition limitée,MAISON,69.33,20.0,59,non,https://cdn.novacommerce.example/img/PR0284.jpg
+PR0154,Yaourt fermier bio,FRAIS,10.60,5.5,171,oui,https://cdn.novacommerce.example/img/PR0154.jpg
+PR0238,Bière artisanale grand format,BOISSONS,43.20,20.0,163,non,https://cdn.novacommerce.example/img/PR0238.jpg
+PR0149,Fromage de brebis bio,FRAIS,31.72,5.5,235,oui,https://cdn.novacommerce.example/img/PR0149.jpg
+PR0325,Planche à découper 500 g,MAISON,61.54,20.0,82,non,https://cdn.novacommerce.example/img/PR0325.jpg
+PR0292,Plaid en laine 500 g,MAISON,10.54,20.0,394,non,
+PR0197,Beurre demi-sel 75 cl,FRAIS,35.23,5.5,353,oui,https://cdn.novacommerce.example/img/PR0197.jpg
+PR0289,Plaid en laine 1 kg,MAISON,109.53,20.0,92,non,https://cdn.novacommerce.example/img/PR0289.jpg
+PR0084,Pâtes artisanales bio,EPICERIE,22.21,5.5,257,non,https://cdn.novacommerce.example/img/PR0084.jpg
+PR0190,Beurre demi-sel 250 g,FRAIS,4.84,20.0,105,oui,https://cdn.novacommerce.example/img/PR0190.jpg
+PR0170,Foie gras 500 g,FRAIS,0.00,5.5,66,oui,https://cdn.novacommerce.example/img/PR0170.jpg
+PR0240,Cidre brut x2,BOISSONS,32.34,20.0,295,non,
+PR0171,Foie gras grand format,FRAIS,15.45,5.5,352,oui,https://cdn.novacommerce.example/img/PR0171.jpg
+PR0313,Torchon lin x2,MAISON,83.02,20.0,257,non,https://cdn.novacommerce.example/img/PR0313.jpg
+PR0119,Épices Ras el-hanout 500 g,Frais,3.42,5.5,225,non,https://cdn.novacommerce.example/img/PR0119.jpg
+PR0322,Plaid en laine 1 kg,MAISON,19.36,20.0,67,non,https://cdn.novacommerce.example/img/PR0322.jpg
+PR0139,Biscuits sablés édition limitée,EPICERIE,8.54,5.5,132,non,https://cdn.novacommerce.example/img/PR0139.jpg
+PR0136,Épices Ras el-hanout 500 g,EPICERIE,33.58,5.5,-2,non,https://cdn.novacommerce.example/img/PR0136.jpg
+PR0225,Vin rouge AOP édition limitée,BOISSONS,42.22,20.0,400,non,https://cdn.novacommerce.example/img/PR0225.jpg
+PR0061,Riz basmati 1 kg,EPICERIE,14.00,5.5,76,non,https://cdn.novacommerce.example/img/PR0061.jpg
+PR0123,Huile d’olive 250 g,EPICERIE,18.94,5.5,107,non,https://cdn.novacommerce.example/img/PR0123.jpg
+PR0109,Café en grains 1 kg,EPICERIE,41.19,5.5,293,non,https://cdn.novacommerce.example/img/PR0109.jpg
+PR0175,Jambon de pays x2,FRAIS,36.31,5.5,9,oui,https://cdn.novacommerce.example/img/PR0175.jpg
+PR0338,Panier osier 500 g,MAISON,93.10,20.0,130,non,https://cdn.novacommerce.example/img/PR0338.jpg
+PR0155,Beurre demi-sel grand format,FRAIS,41.78,5.5,-11,oui,https://cdn.novacommerce.example/img/PR0155.jpg
+PR0348,Torchon lin 250 g,MAISON,57.50,20.0,354,non,https://cdn.novacommerce.example/img/PR0348.jpg
+PR0188,Beurre demi-sel 500 g,FRAIS,20.46,5.5,62,oui,https://cdn.novacommerce.example/img/PR0188.jpg
+PR0236,Bière artisanale édition limitée,BOISSONS,20.61,20.0,368,non,https://cdn.novacommerce.example/img/PR0236.jpg
+PR0039,Biscuits sablés bio,EPICERIE,28.16,5.5,389,non,https://cdn.novacommerce.example/img/PR0039.jpg
+PR0297,Planche à découper édition limitée,MAISON,111.45,20.0,197,non,https://cdn.novacommerce.example/img/PR0297.jpg
+PR0217,Cidre brut 250 g,BOISSONS,15.73,20.0,289,non,https://cdn.novacommerce.example/img/PR0217.jpg
+PR0043,Confiture de figues édition limitée,Boissons,11.62,5.5,357,non,https://cdn.novacommerce.example/img/PR0043.jpg
+PR0335,Bougie parfumée 500 g,MAISON,66.10,20.0,202,non,https://cdn.novacommerce.example/img/PR0335.jpg
+PR0115,Huile d’olive grand format,EPICERIE,29.46,5.5,279,non,https://cdn.novacommerce.example/img/PR0115.jpg
+PR0046,Café en grains édition limitée,EPICERIE,32.18,5.5,251,non,https://cdn.novacommerce.example/img/PR0046.jpg
+PR0241,Champagne brut édition limitée,BOISSONS,32.51,20.0,319,non,https://cdn.novacommerce.example/img/PR0241.jpg
+PR0195,Saumon fumé édition limitée,FRAIS,29.17,5.5,148,oui,https://cdn.novacommerce.example/img/PR0195.jpg
+PR0088,Chocolat noir 70 % grand format,EPICERIE,19.36,5.5,42,non,https://cdn.novacommerce.example/img/PR0088.jpg
+PR0201,Jambon de pays édition limitée,FRAIS,3.46,5.5,88,oui,https://cdn.novacommerce.example/img/PR0201.jpg
+PR0027,Café en grains 250 g,EPICERIE,16.50,5.5,398,non,https://cdn.novacommerce.example/img/PR0027.jpg
+PR0068,Pâtes artisanales édition limitée,EPICERIE,13.78,5.5,362,non,https://cdn.novacommerce.example/img/PR0068.jpg
+PR0259,Champagne brut grand format,BOISSONS,40.91,20.0,289,non,https://cdn.novacommerce.example/img/PR0259.jpg
+PR0126,Confiture de figues bio,EPICERIE,14.99,5.5,131,non,https://cdn.novacommerce.example/img/PR0126.jpg
+PR0167,Yaourt fermier x2,FRAIS,36.24,5.5,49,oui,https://cdn.novacommerce.example/img/PR0167.jpg
+PR0053,Riz basmati 500 g,EPICERIE,10.97,20.0,149,non,https://cdn.novacommerce.example/img/PR0053.jpg
+PR0215,Champagne brut 75 cl,BOISSONS,41.78,20.0,3,non,https://cdn.novacommerce.example/img/PR0215.jpg
+PR0033,Miel de lavande x2,EPICERIE,36.48,5.5,21,non,
+PR0074,Pâtes artisanales 500 g,EPICERIE,10.73,5.5,308,non,
+PR0089,Riz basmati bio,EPICERIE,13.69,5.5,6,non,https://cdn.novacommerce.example/img/PR0089.jpg
+PR0165,Saumon fumé édition limitée,FRAIS,15.59,5.5,173,oui,https://cdn.novacommerce.example/img/PR0165.jpg
+PR0277,Plaid en laine 1 kg,MAISON,42.10,20.0,252,non,https://cdn.novacommerce.example/img/PR0277.jpg
+PR0226,Vin rouge AOP 250 g,BOISSONS,23.82,20.0,393,non,https://cdn.novacommerce.example/img/PR0226.jpg
+PR0116,Riz basmati 1 kg,EPICERIE,14.53,5.5,32,non,https://cdn.novacommerce.example/img/PR0116.jpg
+PR0190,Beurre demi-sel 250 g,FRAIS,4.84,5.5,105,oui,https://cdn.novacommerce.example/img/PR0190.jpg
+PR0229,Cidre brut grand format,BOISSONS,13.09,20.0,97,non,https://cdn.novacommerce.example/img/PR0229.jpg
+PR0164,Fromage de brebis x2,FRAIS,10.46,5.5,145,oui,https://cdn.novacommerce.example/img/PR0164.jpg
+PR0359,Bougie parfumée édition limitée,MAISON,113.01,20.0,116,non,https://cdn.novacommerce.example/img/PR0359.jpg
+PR0117,Riz basmati 1 kg,EPICERIE,14.63,5.5,160,non,https://cdn.novacommerce.example/img/PR0117.jpg
+PR0090,Thé vert grand format,EPICERIE,23.17,5.5,225,non,https://cdn.novacommerce.example/img/PR0090.jpg
+PR0152,Yaourt fermier grand format,FRAIS,33.04,5.5,332,oui,https://cdn.novacommerce.example/img/PR0152.jpg
+PR0304,Torchon lin bio,MAISON,100.64,20.0,220,non,https://cdn.novacommerce.example/img/PR0304.jpg
+PR0092,Thé vert x2,EPICERIE,44.22,5.5,186,non,https://cdn.novacommerce.example/img/PR0092.jpg
+PR0158,Beurre demi-sel 500 g,FRAIS,12.60,5.5,8,oui,https://cdn.novacommerce.example/img/PR0158.jpg
