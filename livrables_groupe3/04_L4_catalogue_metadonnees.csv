@@ -1,0 +1,51 @@
+﻿source,champ,definition_metier,format_attendu,dimensions_qualite,responsable
+clients_crm.csv,client_id,Identifiant unique du client dans le CRM,"texte, « C » suivi d'un numéro (ex. C1042); « B- » = fiche créée en caisse à régulariser","Unicité, intégrité",Data Steward relation client
+clients_crm.csv,prenom,Prénom du client tel que déclaré,"texte, non vide, sans espace en tête","Complétude, exactitude",Data Steward relation client
+clients_crm.csv,nom,Nom de famille du client,"texte, casse normale (pas de MAJUSCULES seules), non vide","Complétude, cohérence",Data Steward relation client
+clients_crm.csv,email,Adresse e-mail de contact; ne prouve pas l'identité,"texte, motif nom@domaine.tld, sans espace, minuscule","Conformité (format), exactitude, complétude",DPO / Marketing
+clients_crm.csv,telephone,Téléphone de contact du client,10 chiffres sans séparateur (ex. 0650423102),"Conformité (format), complétude",Data Steward relation client
+clients_crm.csv,adresse,Adresse postale de livraison/contact (rue),texte libre non vide,"Complétude, exactitude (actualité)",Data Steward relation client
+clients_crm.csv,code_postal,Code postal de l'adresse,"5 chiffres, texte (zéros initiaux conservés)","Conformité (format), cohérence avec la ville",Data Steward relation client
+clients_crm.csv,ville,Commune de l'adresse,"texte, casse normale, cohérent avec le code postal","Cohérence, exactitude",Data Steward relation client
+clients_crm.csv,code_pays,Pays de l'adresse,"code ISO 3166 alpha-2 dans PAYS (FR, BE, ES, DE)",Conformité (référentiel),Data Steward relation client
+clients_crm.csv,date_naissance,Date de naissance du client,AAAA-MM-JJ; passée et âge >= 16 ans,"Exactitude (plausibilité), conformité (ISO 8601)",DPO
+clients_crm.csv,statut,État du compte client,"ACTIF ou INACTIF (STATUT_CLIENT), en majuscules",Conformité (référentiel),Data Steward relation client
+clients_crm.csv,consentement_marketing,Consentement du client aux sollicitations marketing,"oui ou non, jamais vide","Complétude, conformité RGPD",DPO
+clients_crm.csv,canal_creation,Canal ayant créé la fiche,"WEB, CRM ou CAISSE","Conformité, traçabilité",Data Steward relation client
+clients_crm.csv,date_creation,Date de création de la fiche,"AAAA-MM-JJ (ISO 8601), pas dans le futur","Conformité (format), cohérence",Data Steward relation client
+clients_crm.csv,date_maj,Date de dernière modification de la fiche,"AAAA-MM-JJ, >= date_creation","Fraîcheur, cohérence",Data Steward relation client
+commandes_api.json,commande_id,Identifiant unique de la commande,texte « CMD » + numéro,"Unicité, intégrité",Équipe e-commerce
+commandes_api.json,schema_version,Version du contrat d'interface utilisée pour produire le message,texte « 1.0 » ou « 2.0 »; tout changement est annoncé,"Cohérence, traçabilité",Équipe e-commerce + IT Data
+commandes_api.json,client_id,Client qui a passé la commande (nommé customerId en schema 2.0),« C » + numéro existant dans le CRM; nom de champ stable,"Intégrité, complétude",Équipe e-commerce
+commandes_api.json,canal,Canal de vente de la commande,"WEB, CAISSE (B2B observé, non référencé)",Conformité (référentiel à compléter),Équipe e-commerce
+commandes_api.json,date_commande,Date et heure de la commande,ISO 8601 avec fuseau (ex. 2026-10-03T17:06:40+02:00),"Conformité (format), fraîcheur, cohérence temporelle",Équipe e-commerce
+commandes_api.json,statut,Étape du cycle de vie de la commande,"CREEE, PAYEE, EXPEDIEE, LIVREE, ANNULEE (STATUT_COMMANDE)","Conformité (référentiel), cohérence",Équipe e-commerce
+commandes_api.json,lignes[].produit_id,Produit commandé sur la ligne,« PR » + 4 chiffres existant dans produits.csv,Intégrité,Équipe e-commerce
+commandes_api.json,lignes[].quantite,Quantité commandée,entier > 0,"Exactitude, conformité",Équipe e-commerce
+commandes_api.json,lignes[].prix_unitaire_ht,Prix unitaire hors taxe facturé (peut différer du catalogue),"décimal > 0, point décimal, 2 décimales","Exactitude, cohérence",Contrôle de gestion
+commandes_api.json,montant_total_ht,Total HT de la commande,"décimal = Σ quantité × prix (0,01 €)","Cohérence, exactitude",Contrôle de gestion
+commandes_api.json,montant_total_ttc,Total TTC de la commande (nommé total_ttc en schema 2.0),"décimal avec point (pas de virgule), nom de champ stable","Cohérence, conformité (format)",Contrôle de gestion
+commandes_api.json,contact.email,E-mail de contact saisi avec la commande,nom@domaine.tld,"Conformité (format), complétude",Équipe e-commerce
+factures.xml,@numero,Numéro unique de la facture,"FAC-AAAA-NNNNNN, jamais vide, unique","Unicité, complétude",Direction financière
+factures.xml,commande_id,Commande facturée,CMDnnn existant dans commandes; une seule facture par commande,"Intégrité, unicité",Direction financière
+factures.xml,client_id,Client facturé,"client du CRM, non vide","Intégrité, complétude",Direction financière
+factures.xml,date_emission,Date d'émission de la facture,"AAAA-MM-JJ, >= date de la commande, pas dans le futur","Conformité (format), cohérence temporelle",Direction financière
+factures.xml,ligne@taux_tva,Taux de TVA appliqué à la ligne,5.5 ou 20.0 (TAUX_TVA),Conformité (référentiel),Direction financière
+factures.xml,total_ht,Total hors taxe de la facture,"décimal >= 0, point décimal","Cohérence, exactitude",Direction financière
+factures.xml,total_tva,Montant total de TVA,décimal >= 0,"Cohérence, exactitude",Direction financière
+factures.xml,total_ttc,Total toutes taxes comprises,"décimal = total_ht + total_tva (0,01 €)","Cohérence, exactitude",Direction financière
+factures.xml,devise,Devise de la facture,"EUR, jamais vide","Complétude, conformité",Direction financière
+paiements.log,horodatage_reception,Heure de réception de la ligne par le collecteur de logs,ISO 8601 UTC (suffixe Z),"Fraîcheur, conformité",IT Data
+paiements.log,event_id,Identifiant unique de l'événement du prestataire de paiement,"EV + 7 chiffres, unique",Unicité,IT Data
+paiements.log,event_time,Heure de l'événement chez le prestataire,ISO 8601 en UTC (suffixe Z),"Conformité (fuseau), fraîcheur",IT Data
+paiements.log,type,Nature de l'événement de paiement,"PAYMENT_ACCEPTED, PAYMENT_REFUSED ou REFUND (PAYMENT_VALIDATED observé, à faire valider)",Conformité (référentiel),Direction financière
+paiements.log,commande_id,Commande concernée par le paiement,CMDnnn existant dans commandes,Intégrité,Direction financière
+paiements.log,montant,Montant de l'événement en euros,"décimal avec point, non vide pour ACCEPTED et REFUND, négatif pour REFUND","Exactitude, complétude",Direction financière
+paiements.log,devise,Devise du paiement,EUR,Conformité,Direction financière
+paiements.log,moyen,Moyen de paiement,"CB, PAYPAL ou VIREMENT",Conformité,Direction financière
+capteurs_froid.csv,horodatage_local,"Instant de la mesure, heure locale de l'entrepôt","AAAA-MM-JJ hh:mm:ss, un pas de 5 min, sans doublon (hors changement d'heure à documenter)","Fraîcheur, unicité, complétude",Équipe IoT
+capteurs_froid.csv,capteur_id,Capteur de la chambre froide,CF-01 à CF-03,Intégrité,Équipe IoT
+capteurs_froid.csv,zone,Chambre froide surveillée,texte du référentiel des zones,Cohérence,Responsable qualité
+capteurs_froid.csv,temperature,Température mesurée (conformité 0 à 4 °C),"décimal en °C entre -40 et +60, non vide","Exactitude, complétude",Responsable qualité
+capteurs_froid.csv,unite,Unité de la température,C uniquement,"Conformité, cohérence",Équipe IoT
+capteurs_froid.csv,batterie_pct,Niveau de batterie du capteur,entier 0 à 100,"Fraîcheur, exactitude",Équipe IoT

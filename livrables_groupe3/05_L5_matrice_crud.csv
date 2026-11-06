@@ -1,0 +1,15 @@
+﻿donnee,site_api,caisse,crm,erp,plateforme_iot,bi,processus
+"Fiche client (identité, adresse) - ACTUEL",C U (compte web),"C (fiche à chaque vente, B-)",C R U,C R U (copie de facturation),-,R,Création client / mise à jour adresse
+Fiche client - CIBLE,C U (via API MDM),R puis C via API MDM seulement,R (consultation); C U D réservés au Data Steward via MDM,R (copie synchronisée),-,R,Création client / mise à jour adresse
+Adresse de facturation - ACTUEL,-,-,R,C R U,-,R,Facturation
+Adresse de facturation - CIBLE,-,-,R (historisée avec dates de validité),R (lecture de la valeur du MDM),-,R,Facturation
+Consentement marketing - ACTUEL,C U,C (parfois vide),R U,-,-,R,Marketing / RGPD
+Consentement marketing - CIBLE,C U (horodaté),C U (obligatoire),R (source de vérité unique),-,-,R,Marketing / RGPD
+Commande - ACTUEL,C U,C,R,R,-,R,Vente
+Commande - CIBLE,C U (contrat versionné),C U (contrat versionné),R,R,-,R,Vente
+Facture - ACTUEL,-,-,-,C R U D,-,R,Facturation
+Facture - CIBLE,-,-,-,C R (U D interdits : avoir),-,R,Facturation
+Paiement (événement PSP) - ACTUEL,R,R,-,R,-,R,Encaissement
+Mesure de température - ACTUEL,-,-,-,-,C R,R,Chaîne du froid
+Mesure de température - CIBLE,-,-,-,-,C R (volume contrôlé),R,Chaîne du froid
+Livraison / GPS - ACTUEL,R,-,-,-,-,R,Livraison (application livreurs : C U)
