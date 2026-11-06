@@ -1,0 +1,11 @@
+règle,description,unité comptée,contrôlés,en anomalie,% conformes
+R01,commande -> client_id existant dans le CRM,commandes (lignes JSON),25422,2143,91.57
+R02,client_id unique dans le CRM,lignes CRM (60 clés distinctes),15412,120,99.22
+R03,"TTC = HT + TVA (0,01 €)",factures,5214,59,98.87
+R04,aucune donnée personnelle dans un avis publié,avis,4100,59,98.56
+R05,event_id unique et horodatage UTC (Z),événements PSP,28155,797,97.17
+R06,plage -40/+60 °C et pas de trou > 5 min,mesures (dont 1 trou de 365 min),26788,7,99.97
+R07,coordonnées en France métropolitaine,livraisons,14982,65,99.57
+R08,PDF rattaché à une commande existante,PDF,5194,95,98.17
+R09,une commande n'est facturée qu'une seule fois (1 numéro par commande),factures (310 commandes concernées),5214,620,88.11
+R10,"capteur : unité °C, valeur présente, pas de valeur figée sur 1 h","mesures (50 °F, 20 vides, 65 figées)",26788,135,99.5
